@@ -1,5 +1,5 @@
 # hi there
 
 [test](test.md) | 
-[note](note.adoc)
+[note](note.html)
 
