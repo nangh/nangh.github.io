@@ -1,3 +1,5 @@
 = This ... =
 
 ... is a note.
+
+index in images/ via adoc?
